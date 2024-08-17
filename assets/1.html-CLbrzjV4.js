@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app-BrCFPZC_.js";const o={};function r(n,c){return e(),a("div")}const l=t(o,[["render",r],["__file","1.html.vue"]]),_=JSON.parse('{"path":"/tags/spring-boot/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,_ as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app-BrCFPZC_.js";const o={};function r(c,l){return t(),a("div")}const i=e(o,[["render",r],["__file","1.html.vue"]]),s=JSON.parse('{"path":"/tags/xiaoxiduilie/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{i as comp,s as data};
